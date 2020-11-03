@@ -4,11 +4,11 @@ There are two roles
 1. admin  (ALL rights)
 2. user   (ALL rights except to update the address)
 
-admin cridencial 
+admin credential 
 user name : admin
 password : admin  
 
-user cridencial 
+user credential 
 user name : user
 password : user
 
